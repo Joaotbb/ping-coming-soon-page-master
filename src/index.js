@@ -29,4 +29,3 @@ function validateForm(e) {
 }
 
 btn.addEventListener('click', validateForm)
-
